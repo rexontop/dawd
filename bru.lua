@@ -1,5 +1,3 @@
-wait(5)
-
 hookfunction(isfunctionhooked,function(...)
     return false
 end)
